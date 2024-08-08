@@ -10,4 +10,6 @@
 6. Training the Model
 7. Visualizing the performance of the Model during Training Phase
 8. Loading Test Dataset and Evaluating the Model
-9. Saving the Model 
+9. Saving the Model
+10. 
+<a href="https://www.buymeacoffee.com/yassirachag" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
